@@ -1,0 +1,21 @@
+body {
+    background:gainsboro;
+}
+p {
+    font-size: 18px;
+    text-align: center;
+    width: 800px;
+    padding: 10px 20px;
+    font-family: serif, Rockwell;
+   }
+.star {
+    text-align: center;
+    font-family: fantasy, Jazz LET;
+    color: ghostwhite;
+}
+#star{
+  font-size: 30px;
+}
+#myname{
+    color: ghostwhite;
+}
